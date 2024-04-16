@@ -9,3 +9,6 @@ NIM : 12030122130136
 Web sistem farmasi clone dari (https://github.com/benmoumene)
 
 # Perbandingan dengan referensi
+Dashboard referensi
+
+![alt text](https://github.com/RaihanahShafaShabirah/PengkodeanDanPemrograman-Sistem-Farmasi/blob/main/Pictures/pic1.png?raw=true)
